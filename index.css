@@ -14,7 +14,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background:rgb(255, 50, 50);
+    background:rgb(34, 18, 79);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -26,7 +26,7 @@ body {
     width:50px;
     height:50px;
     border:12px solid #fff;
-    border-bottom:12px solid rgb(255, 50, 50);
+    border-bottom:12px solid rgb(34, 18, 79);
     border-radius:50%;
     margin:0;
 }
@@ -47,10 +47,10 @@ body {
     display:inline-block;
 }
 .box1 {
-    background:rgb(255, 50, 50);
+    background:rgb(34, 18, 79);
 }
 .box2 {
-    background:rgb(255, 50, 50);
+    background:rgb(34, 18, 79);
     margin-left:-5px;
 }
 #menu {
@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:rgb(255, 50, 50);
+    color:rgb(53, 33, 109);
     font-size:70px;
     text-decoration:underline;
 }
@@ -155,19 +155,19 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #projects:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(27, 13, 66, 0.9);
     cursor:pointer;
 }
 #about:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(27, 13, 66, 0.9);
     cursor:pointer;
 }
 #work:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(27, 13, 66, 0.9);
     cursor:pointer;
 }
 #contact:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(27, 13, 66, 0.9);
     cursor:pointer;
 }
 #middle table {
@@ -317,7 +317,7 @@ body {
     font-weight:bold;
 }
 #footer a {
-    color:rgb(255, 50, 50) ;
+    color:rgb(53, 35, 101) ;
 }
 #particles-js {
     position:fixed;
@@ -332,14 +332,14 @@ body {
     background: #fff; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(255, 50, 50); 
+    background: rgb(34, 18, 79); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 50, 50,0.8); 
+    background: rgba(27, 13, 66, 0.9); 
 }
 ::selection {
 	color: #fff;
-	background: rgb(255, 50, 50);
+	background: rgb(34, 18, 79);
 }
 
 @media (max-width: 800px){ 
